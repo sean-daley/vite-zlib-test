@@ -1,6 +1,9 @@
 # Repo to test an issue with browserify-zlib and vite-plugin-node-polyfills
 
-`npm run dev` to see it.
+```
+npm install
+npm run dev
+```
 
 If you are at v0.18.0 or higher you should get the following (or similar) error:
 ```
